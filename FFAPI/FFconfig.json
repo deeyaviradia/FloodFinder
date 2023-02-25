@@ -1,0 +1,15 @@
+{
+  "db": {
+    "server": "127.0.0.1",
+    "user": "SA",
+    "password": "Nice12go!",
+    "database": "FFdb",
+    "pool_size": 20,
+    "query_timeout": 2
+  },
+  "raw_image_location" : "/home/daviradia001/FFMockapi/images",
+  "analyzed_image_location": "/home/daviradia001/FFMockapi/analyzed_images",
+  "flood_threshold" : 0.85,
+  "flood_indicator": [0,1,20,40]
+
+}
